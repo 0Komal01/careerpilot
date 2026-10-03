@@ -1,0 +1,1538 @@
+{
+ "admin": {
+  "email": "admin@careerpilot.dev",
+  "password": "Admin@123"
+ },
+ "studentPassword": "Student@123",
+ "skills": [
+  "Java",
+  "Spring Boot",
+  "Spring Security",
+  "Hibernate",
+  "JPA",
+  "SQL",
+  "PostgreSQL",
+  "MySQL",
+  "MongoDB",
+  "REST API",
+  "Microservices",
+  "Docker",
+  "Kubernetes",
+  "Git",
+  "Maven",
+  "JUnit",
+  "Mockito",
+  "AWS",
+  "Azure",
+  "Linux",
+  "Python",
+  "Pandas",
+  "NumPy",
+  "Scikit-learn",
+  "TensorFlow",
+  "PyTorch",
+  "Machine Learning",
+  "Deep Learning",
+  "NLP",
+  "Computer Vision",
+  "Data Structures",
+  "Algorithms",
+  "OOP",
+  "System Design",
+  "JavaScript",
+  "TypeScript",
+  "React",
+  "Node.js",
+  "Express.js",
+  "HTML",
+  "CSS",
+  "Tailwind CSS",
+  "Redux",
+  "Next.js",
+  "Flutter",
+  "Dart",
+  "Kotlin",
+  "C++",
+  "Golang",
+  "Figma",
+  "Power BI",
+  "Tableau",
+  "MS Excel",
+  "Statistics",
+  "Data Analysis",
+  "CI/CD",
+  "Jenkins",
+  "Selenium",
+  "Postman",
+  "Cybersecurity",
+  "Networking",
+  "Agile",
+  "FastAPI",
+  "Django",
+  "GraphQL",
+  "Kafka",
+  "Redis"
+ ],
+ "companies": [
+  {
+   "name": "Nimbus Labs",
+   "location": "Bengaluru",
+   "website": "https://nimbuslabs.example.com"
+  },
+  {
+   "name": "Quantra Systems",
+   "location": "Pune",
+   "website": "https://quantrasystems.example.com"
+  },
+  {
+   "name": "Pixelforge Studio",
+   "location": "Hyderabad",
+   "website": "https://pixelforgestudio.example.com"
+  },
+  {
+   "name": "BlueMesh Cloud",
+   "location": "Bengaluru",
+   "website": "https://bluemeshcloud.example.com"
+  },
+  {
+   "name": "Kavach Security",
+   "location": "Gurugram",
+   "website": "https://kavachsecurity.example.com"
+  },
+  {
+   "name": "Lumen Analytics",
+   "location": "Mumbai",
+   "website": "https://lumenanalytics.example.com"
+  },
+  {
+   "name": "Orbit Payments",
+   "location": "Bengaluru",
+   "website": "https://orbitpayments.example.com"
+  },
+  {
+   "name": "TerraByte Technologies",
+   "location": "Ahmedabad",
+   "website": "https://terrabytetechnologies.example.com"
+  },
+  {
+   "name": "Zenith Health Tech",
+   "location": "Chennai",
+   "website": "https://zenithhealthtech.example.com"
+  },
+  {
+   "name": "Cobalt Retail Systems",
+   "location": "Pune",
+   "website": "https://cobaltretailsystems.example.com"
+  },
+  {
+   "name": "Sutra Software",
+   "location": "Rajkot",
+   "website": "https://sutrasoftware.example.com"
+  },
+  {
+   "name": "Vayu Mobility",
+   "location": "Hyderabad",
+   "website": "https://vayumobility.example.com"
+  },
+  {
+   "name": "Aarna FinServe",
+   "location": "Mumbai",
+   "website": "https://aarnafinserve.example.com"
+  },
+  {
+   "name": "Helix Robotics",
+   "location": "Pune",
+   "website": "https://helixrobotics.example.com"
+  },
+  {
+   "name": "Ganga Logistics Tech",
+   "location": "Ahmedabad",
+   "website": "https://gangalogisticstech.example.com"
+  },
+  {
+   "name": "Kiranaa Commerce",
+   "location": "Remote",
+   "website": "https://kiranaacommerce.example.com"
+  }
+ ],
+ "jobs": [
+  {
+   "ref": "J01",
+   "company": "Nimbus Labs",
+   "title": "Java Backend Developer",
+   "description": "Nimbus Labs is hiring a Java Backend Developer (full-time) for its Bengaluru team. You will build and maintain REST services with Spring Boot and design normalized schemas and tune SQL queries. Required skills: Java, Spring Boot, SQL, REST API, Git, Hibernate. Nice to have: Docker, Microservices. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Bengaluru",
+   "salaryLpa": 8.2,
+   "jobType": "Full-time",
+   "deadlineDays": 35,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "SQL",
+    "REST API",
+    "Git",
+    "Hibernate"
+   ]
+  },
+  {
+   "ref": "J02",
+   "company": "Quantra Systems",
+   "title": "DevOps Engineer",
+   "description": "Quantra Systems is hiring a DevOps Engineer (full-time) for its Pune team. You will automate build and deployment pipelines and manage containerised workloads and monitoring. Required skills: Docker, Kubernetes, Linux, CI/CD, Git, AWS, Jenkins. Nice to have: Kubernetes. Eligibility: B.Tech / B.E. / MCA with at least 7.0 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.0,
+   "location": "Pune",
+   "salaryLpa": 12.3,
+   "jobType": "Full-time",
+   "deadlineDays": 14,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "CI/CD",
+    "Git",
+    "AWS",
+    "Jenkins"
+   ]
+  },
+  {
+   "ref": "J03",
+   "company": "Pixelforge Studio",
+   "title": "Cybersecurity Analyst",
+   "description": "Pixelforge Studio is hiring a Cybersecurity Analyst (full-time) for its Hyderabad team. You will monitor alerts and triage security incidents and run vulnerability scans and write remediation notes. Required skills: Cybersecurity, Networking, Linux, Python. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Hyderabad",
+   "salaryLpa": 7.6,
+   "jobType": "Full-time",
+   "deadlineDays": 14,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Cybersecurity",
+    "Networking",
+    "Linux",
+    "Python"
+   ]
+  },
+  {
+   "ref": "J04",
+   "company": "BlueMesh Cloud",
+   "title": "React Developer Intern",
+   "description": "BlueMesh Cloud is hiring a React Developer Intern (internship) for its Bengaluru team. You will build UI components and fix front-end bugs and pair with senior engineers on code reviews. Required skills: React, JavaScript, HTML, CSS. Nice to have: TypeScript, Redux. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Bengaluru",
+   "salaryLpa": 0.47,
+   "jobType": "Internship",
+   "deadlineDays": 22,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "React",
+    "JavaScript",
+    "HTML",
+    "CSS"
+   ]
+  },
+  {
+   "ref": "J05",
+   "company": "Kavach Security",
+   "title": "Machine Learning Engineer",
+   "description": "Kavach Security is hiring a Machine Learning Engineer (full-time) for its Gurugram team. You will train, evaluate and deploy ML models and build data pipelines and monitor model drift. Required skills: Python, Machine Learning, Scikit-learn, NumPy, TensorFlow, Data Structures. Nice to have: FastAPI, Docker. Eligibility: B.Tech / B.E. / MCA with at least 7.5 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.5,
+   "location": "Gurugram",
+   "salaryLpa": 19.5,
+   "jobType": "Full-time",
+   "deadlineDays": 6,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Scikit-learn",
+    "NumPy",
+    "TensorFlow",
+    "Data Structures"
+   ]
+  },
+  {
+   "ref": "J06",
+   "company": "Lumen Analytics",
+   "title": "Cloud Engineer",
+   "description": "Lumen Analytics is hiring a Cloud Engineer (full-time) for its Mumbai team. You will design secure, cost-aware AWS infrastructure and write automation scripts for provisioning. Required skills: AWS, Linux, Networking, Docker, Python, Git. Nice to have: Terraform. Eligibility: B.Tech / B.E. / MCA with at least 7.0 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.0,
+   "location": "Mumbai",
+   "salaryLpa": 9.1,
+   "jobType": "Full-time",
+   "deadlineDays": 6,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "AWS",
+    "Linux",
+    "Networking",
+    "Docker",
+    "Python",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J07",
+   "company": "Orbit Payments",
+   "title": "Software Development Intern",
+   "description": "Orbit Payments is hiring a Software Development Intern (internship) for its Chennai team. You will work on a real feature with a mentor for 6 months and write tests and fix production bugs. Required skills: Data Structures, OOP, Git. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.0 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.0,
+   "location": "Chennai",
+   "salaryLpa": 0.46,
+   "jobType": "Internship",
+   "deadlineDays": 22,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Data Structures",
+    "OOP",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J08",
+   "company": "TerraByte Technologies",
+   "title": "Data Analyst",
+   "description": "TerraByte Technologies is hiring a Data Analyst (full-time) for its Ahmedabad team. You will turn raw data into weekly business dashboards and run ad-hoc SQL analysis for product and ops teams. Required skills: SQL, Python, Pandas, MS Excel, Power BI, Statistics. Nice to have: PostgreSQL, indexing basics. Eligibility: B.Tech / B.E. / MCA with at least 7.0 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.0,
+   "location": "Ahmedabad",
+   "salaryLpa": 5.3,
+   "jobType": "Full-time",
+   "deadlineDays": 6,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "SQL",
+    "Python",
+    "Pandas",
+    "MS Excel",
+    "Power BI",
+    "Statistics"
+   ]
+  },
+  {
+   "ref": "J09",
+   "company": "Zenith Health Tech",
+   "title": "Flutter Mobile Developer",
+   "description": "Zenith Health Tech is hiring a Flutter Mobile Developer (full-time) for its Pune team. You will build cross-platform mobile apps with Flutter and integrate payments, maps and push notifications. Required skills: Flutter, Dart, REST API, Git. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Pune",
+   "salaryLpa": 8.2,
+   "jobType": "Full-time",
+   "deadlineDays": 22,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Flutter",
+    "Dart",
+    "REST API",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J10",
+   "company": "Cobalt Retail Systems",
+   "title": "Business Analyst",
+   "description": "Cobalt Retail Systems is hiring a Business Analyst (full-time) for its Pune team. You will translate stakeholder needs into user stories and track KPIs and present findings. Required skills: SQL, MS Excel, Tableau, Agile. Nice to have: PostgreSQL, indexing basics. Eligibility: B.Tech / B.E. / MCA with at least 7.0 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.0,
+   "location": "Pune",
+   "salaryLpa": 9.7,
+   "jobType": "Full-time",
+   "deadlineDays": 9,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "SQL",
+    "MS Excel",
+    "Tableau",
+    "Agile"
+   ]
+  },
+  {
+   "ref": "J11",
+   "company": "Sutra Software",
+   "title": "Frontend Developer",
+   "description": "Sutra Software is hiring a Frontend Developer (full-time) for its Rajkot team. You will build accessible, responsive interfaces in React and turn Figma designs into reusable components. Required skills: React, TypeScript, HTML, CSS, JavaScript, Git. Nice to have: TypeScript, Redux. Eligibility: B.Tech / B.E. / MCA with at least 6.0 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.0,
+   "location": "Rajkot",
+   "salaryLpa": 8.2,
+   "jobType": "Full-time",
+   "deadlineDays": 41,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "React",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J12",
+   "company": "Vayu Mobility",
+   "title": "QA Automation Engineer",
+   "description": "Vayu Mobility is hiring a QA Automation Engineer (full-time) for its Hyderabad team. You will write automated UI and API tests and own regression suites and release sign-off. Required skills: Selenium, Java, Postman, JUnit, SQL, Agile. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Hyderabad",
+   "salaryLpa": 8.6,
+   "jobType": "Full-time",
+   "deadlineDays": 22,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Selenium",
+    "Java",
+    "Postman",
+    "JUnit",
+    "SQL",
+    "Agile"
+   ]
+  },
+  {
+   "ref": "J13",
+   "company": "Aarna FinServe",
+   "title": "Python Backend Developer",
+   "description": "Aarna FinServe is hiring a Python Backend Developer (full-time) for its Mumbai team. You will build Django services and background workers and write clean, well-tested APIs. Required skills: Python, Django, SQL, REST API, Docker, Git. Nice to have: FastAPI, Docker. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Mumbai",
+   "salaryLpa": 13.3,
+   "jobType": "Full-time",
+   "deadlineDays": 14,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Python",
+    "Django",
+    "SQL",
+    "REST API",
+    "Docker",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J14",
+   "company": "Helix Robotics",
+   "title": "Full-Stack Engineer",
+   "description": "Helix Robotics is hiring a Full-Stack Engineer (full-time) for its Pune team. You will ship features across a React front end and Node.js APIs and own pages from design hand-off to production. Required skills: React, JavaScript, Node.js, SQL, REST API, Git. Nice to have: TypeScript, Redux. Eligibility: B.Tech / B.E. / MCA with at least 7.0 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.0,
+   "location": "Pune",
+   "salaryLpa": 14.2,
+   "jobType": "Full-time",
+   "deadlineDays": 14,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "React",
+    "JavaScript",
+    "Node.js",
+    "SQL",
+    "REST API",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J15",
+   "company": "Ganga Logistics Tech",
+   "title": "Software Engineer Trainee",
+   "description": "Ganga Logistics Tech is hiring a Software Engineer Trainee (full-time) for its Ahmedabad team. You will complete a 6-month structured training programme and contribute to production code under a mentor. Required skills: Data Structures, Algorithms, OOP, Java, SQL. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Ahmedabad",
+   "salaryLpa": 7.7,
+   "jobType": "Full-time",
+   "deadlineDays": 22,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Data Structures",
+    "Algorithms",
+    "OOP",
+    "Java",
+    "SQL"
+   ]
+  },
+  {
+   "ref": "J16",
+   "company": "Kiranaa Commerce",
+   "title": "NLP Engineer",
+   "description": "Kiranaa Commerce is hiring a NLP Engineer (full-time) for its Remote team. You will fine-tune and serve language models and build evaluation sets for text classification. Required skills: Python, NLP, PyTorch, Deep Learning, FastAPI, Git. Nice to have: FastAPI, Docker. Eligibility: B.Tech / B.E. / MCA with at least 8.5 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 8.5,
+   "location": "Remote",
+   "salaryLpa": 15.6,
+   "jobType": "Full-time",
+   "deadlineDays": 6,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Python",
+    "NLP",
+    "PyTorch",
+    "Deep Learning",
+    "FastAPI",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J17",
+   "company": "Nimbus Labs",
+   "title": "Full-Stack Engineer",
+   "description": "Nimbus Labs is hiring a Full-Stack Engineer (full-time) for its Bengaluru team. You will ship features across a React front end and Node.js APIs and own pages from design hand-off to production. Required skills: React, JavaScript, Node.js, SQL, REST API, Git. Nice to have: TypeScript, Redux. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Bengaluru",
+   "salaryLpa": 12.1,
+   "jobType": "Full-time",
+   "deadlineDays": 55,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "React",
+    "JavaScript",
+    "Node.js",
+    "SQL",
+    "REST API",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J18",
+   "company": "Quantra Systems",
+   "title": "Software Engineer Trainee",
+   "description": "Quantra Systems is hiring a Software Engineer Trainee (full-time) for its Rajkot team. You will complete a 6-month structured training programme and contribute to production code under a mentor. Required skills: Data Structures, Algorithms, OOP, Java. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Rajkot",
+   "salaryLpa": 6.8,
+   "jobType": "Full-time",
+   "deadlineDays": 6,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Data Structures",
+    "Algorithms",
+    "OOP",
+    "Java"
+   ]
+  },
+  {
+   "ref": "J19",
+   "company": "Pixelforge Studio",
+   "title": "NLP Engineer",
+   "description": "Pixelforge Studio is hiring a NLP Engineer (full-time) for its Hyderabad team. You will fine-tune and serve language models and build evaluation sets for text classification. Required skills: Python, NLP, PyTorch, Deep Learning, FastAPI. Nice to have: FastAPI, Docker. Eligibility: B.Tech / B.E. / MCA with at least 8.0 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 8.0,
+   "location": "Hyderabad",
+   "salaryLpa": 12.5,
+   "jobType": "Full-time",
+   "deadlineDays": 27,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Python",
+    "NLP",
+    "PyTorch",
+    "Deep Learning",
+    "FastAPI"
+   ]
+  },
+  {
+   "ref": "J20",
+   "company": "BlueMesh Cloud",
+   "title": "Java Backend Developer",
+   "description": "BlueMesh Cloud is hiring a Java Backend Developer (full-time) for its Bengaluru team. You will build and maintain REST services with Spring Boot and design normalized schemas and tune SQL queries. Required skills: Java, Spring Boot, SQL, REST API, Git. Nice to have: Docker, Microservices. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Bengaluru",
+   "salaryLpa": 11.8,
+   "jobType": "Full-time",
+   "deadlineDays": 9,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Java",
+    "Spring Boot",
+    "SQL",
+    "REST API",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J21",
+   "company": "Kavach Security",
+   "title": "DevOps Engineer",
+   "description": "Kavach Security is hiring a DevOps Engineer (full-time) for its Gurugram team. You will automate build and deployment pipelines and manage containerised workloads and monitoring. Required skills: Docker, Kubernetes, Linux, CI/CD, Git, AWS. Nice to have: Kubernetes. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Gurugram",
+   "salaryLpa": 12.6,
+   "jobType": "Full-time",
+   "deadlineDays": 14,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "CI/CD",
+    "Git",
+    "AWS"
+   ]
+  },
+  {
+   "ref": "J22",
+   "company": "Lumen Analytics",
+   "title": "Cybersecurity Analyst",
+   "description": "Lumen Analytics is hiring a Cybersecurity Analyst (full-time) for its Mumbai team. You will monitor alerts and triage security incidents and run vulnerability scans and write remediation notes. Required skills: Cybersecurity, Networking, Linux, Python. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 7.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.5,
+   "location": "Mumbai",
+   "salaryLpa": 10.3,
+   "jobType": "Full-time",
+   "deadlineDays": -12,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Cybersecurity",
+    "Networking",
+    "Linux",
+    "Python"
+   ]
+  },
+  {
+   "ref": "J23",
+   "company": "Orbit Payments",
+   "title": "React Developer Intern",
+   "description": "Orbit Payments is hiring a React Developer Intern (internship) for its Bengaluru team. You will build UI components and fix front-end bugs and pair with senior engineers on code reviews. Required skills: React, JavaScript, HTML, CSS, Git. Nice to have: TypeScript, Redux. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Bengaluru",
+   "salaryLpa": 0.32,
+   "jobType": "Internship",
+   "deadlineDays": 18,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "React",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J24",
+   "company": "TerraByte Technologies",
+   "title": "Machine Learning Engineer",
+   "description": "TerraByte Technologies is hiring a Machine Learning Engineer (full-time) for its Ahmedabad team. You will train, evaluate and deploy ML models and build data pipelines and monitor model drift. Required skills: Python, Machine Learning, Scikit-learn, NumPy, TensorFlow, Data Structures. Nice to have: FastAPI, Docker. Eligibility: B.Tech / B.E. / MCA with at least 7.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.5,
+   "location": "Ahmedabad",
+   "salaryLpa": 14.8,
+   "jobType": "Full-time",
+   "deadlineDays": 6,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Scikit-learn",
+    "NumPy",
+    "TensorFlow",
+    "Data Structures"
+   ]
+  },
+  {
+   "ref": "J25",
+   "company": "Zenith Health Tech",
+   "title": "Cloud Engineer",
+   "description": "Zenith Health Tech is hiring a Cloud Engineer (full-time) for its Rajkot team. You will design secure, cost-aware AWS infrastructure and write automation scripts for provisioning. Required skills: AWS, Linux, Networking, Docker, Python, Git. Nice to have: Terraform. Eligibility: B.Tech / B.E. / MCA with at least 7.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.5,
+   "location": "Rajkot",
+   "salaryLpa": 8.0,
+   "jobType": "Full-time",
+   "deadlineDays": 18,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "AWS",
+    "Linux",
+    "Networking",
+    "Docker",
+    "Python",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J26",
+   "company": "Cobalt Retail Systems",
+   "title": "Software Development Intern",
+   "description": "Cobalt Retail Systems is hiring a Software Development Intern (internship) for its Pune team. You will work on a real feature with a mentor for 6 months and write tests and fix production bugs. Required skills: Data Structures, OOP, Git. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Pune",
+   "salaryLpa": 0.59,
+   "jobType": "Internship",
+   "deadlineDays": 14,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Data Structures",
+    "OOP",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J27",
+   "company": "Sutra Software",
+   "title": "Data Analyst",
+   "description": "Sutra Software is hiring a Data Analyst (full-time) for its Rajkot team. You will turn raw data into weekly business dashboards and run ad-hoc SQL analysis for product and ops teams. Required skills: SQL, Python, Pandas, MS Excel, Power BI, Statistics. Nice to have: PostgreSQL, indexing basics. Eligibility: B.Tech / B.E. / MCA with at least 7.0 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.0,
+   "location": "Rajkot",
+   "salaryLpa": 9.0,
+   "jobType": "Full-time",
+   "deadlineDays": 33,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "SQL",
+    "Python",
+    "Pandas",
+    "MS Excel",
+    "Power BI",
+    "Statistics"
+   ]
+  },
+  {
+   "ref": "J28",
+   "company": "Vayu Mobility",
+   "title": "Flutter Mobile Developer",
+   "description": "Vayu Mobility is hiring a Flutter Mobile Developer (full-time) for its Hyderabad team. You will build cross-platform mobile apps with Flutter and integrate payments, maps and push notifications. Required skills: Flutter, Dart, REST API, Git, Redux. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.0 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.0,
+   "location": "Hyderabad",
+   "salaryLpa": 7.4,
+   "jobType": "Full-time",
+   "deadlineDays": 14,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Flutter",
+    "Dart",
+    "REST API",
+    "Git",
+    "Redux"
+   ]
+  },
+  {
+   "ref": "J29",
+   "company": "Aarna FinServe",
+   "title": "Business Analyst",
+   "description": "Aarna FinServe is hiring a Business Analyst (full-time) for its Mumbai team. You will translate stakeholder needs into user stories and track KPIs and present findings. Required skills: SQL, MS Excel, Tableau, Agile, Data Analysis. Nice to have: PostgreSQL, indexing basics. Eligibility: B.Tech / B.E. / MCA with at least 7.0 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.0,
+   "location": "Mumbai",
+   "salaryLpa": 5.3,
+   "jobType": "Full-time",
+   "deadlineDays": 22,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "SQL",
+    "MS Excel",
+    "Tableau",
+    "Agile",
+    "Data Analysis"
+   ]
+  },
+  {
+   "ref": "J30",
+   "company": "Helix Robotics",
+   "title": "Frontend Developer",
+   "description": "Helix Robotics is hiring a Frontend Developer (full-time) for its Pune team. You will build accessible, responsive interfaces in React and turn Figma designs into reusable components. Required skills: React, TypeScript, HTML, CSS, JavaScript, Git. Nice to have: TypeScript, Redux. Eligibility: B.Tech / B.E. / MCA with at least 6.0 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.0,
+   "location": "Pune",
+   "salaryLpa": 9.7,
+   "jobType": "Full-time",
+   "deadlineDays": 55,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "React",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J31",
+   "company": "Ganga Logistics Tech",
+   "title": "QA Automation Engineer",
+   "description": "Ganga Logistics Tech is hiring a QA Automation Engineer (full-time) for its Ahmedabad team. You will write automated UI and API tests and own regression suites and release sign-off. Required skills: Selenium, Java, Postman, JUnit, SQL, Agile. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.0 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.0,
+   "location": "Ahmedabad",
+   "salaryLpa": 6.8,
+   "jobType": "Full-time",
+   "deadlineDays": 70,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Selenium",
+    "Java",
+    "Postman",
+    "JUnit",
+    "SQL",
+    "Agile"
+   ]
+  },
+  {
+   "ref": "J32",
+   "company": "Kiranaa Commerce",
+   "title": "Python Backend Developer",
+   "description": "Kiranaa Commerce is hiring a Python Backend Developer (full-time) for its Remote team. You will build Django services and background workers and write clean, well-tested APIs. Required skills: Python, Django, SQL, REST API, Docker. Nice to have: FastAPI, Docker. Eligibility: B.Tech / B.E. / MCA with at least 7.0 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.0,
+   "location": "Remote",
+   "salaryLpa": 9.7,
+   "jobType": "Full-time",
+   "deadlineDays": 70,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Python",
+    "Django",
+    "SQL",
+    "REST API",
+    "Docker"
+   ]
+  },
+  {
+   "ref": "J33",
+   "company": "Nimbus Labs",
+   "title": "Frontend Developer",
+   "description": "Nimbus Labs is hiring a Frontend Developer (full-time) for its Bengaluru team. You will build accessible, responsive interfaces in React and turn Figma designs into reusable components. Required skills: React, TypeScript, HTML, CSS, JavaScript. Nice to have: TypeScript, Redux. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Bengaluru",
+   "salaryLpa": 7.4,
+   "jobType": "Full-time",
+   "deadlineDays": 14,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "React",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "JavaScript"
+   ]
+  },
+  {
+   "ref": "J34",
+   "company": "Quantra Systems",
+   "title": "QA Automation Engineer",
+   "description": "Quantra Systems is hiring a QA Automation Engineer (full-time) for its Pune team. You will write automated UI and API tests and own regression suites and release sign-off. Required skills: Selenium, Java, Postman, JUnit, SQL, Agile. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.0 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.0,
+   "location": "Pune",
+   "salaryLpa": 5.1,
+   "jobType": "Full-time",
+   "deadlineDays": 6,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Selenium",
+    "Java",
+    "Postman",
+    "JUnit",
+    "SQL",
+    "Agile"
+   ]
+  },
+  {
+   "ref": "J35",
+   "company": "Pixelforge Studio",
+   "title": "Python Backend Developer",
+   "description": "Pixelforge Studio is hiring a Python Backend Developer (full-time) for its Hyderabad team. You will build Django services and background workers and write clean, well-tested APIs. Required skills: Python, Django, SQL, REST API, Docker, Git. Nice to have: FastAPI, Docker. Eligibility: B.Tech / B.E. / MCA with at least 7.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 7.5,
+   "location": "Hyderabad",
+   "salaryLpa": 10.4,
+   "jobType": "Full-time",
+   "deadlineDays": -12,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Python",
+    "Django",
+    "SQL",
+    "REST API",
+    "Docker",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J36",
+   "company": "BlueMesh Cloud",
+   "title": "Full-Stack Engineer",
+   "description": "BlueMesh Cloud is hiring a Full-Stack Engineer (full-time) for its Mumbai team. You will ship features across a React front end and Node.js APIs and own pages from design hand-off to production. Required skills: React, JavaScript, Node.js, SQL, REST API, Git. Nice to have: TypeScript, Redux. Eligibility: B.Tech / B.E. / MCA with at least 6.5 CGPA, 2027 batch. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.5,
+   "location": "Mumbai",
+   "salaryLpa": 10.4,
+   "jobType": "Full-time",
+   "deadlineDays": -12,
+   "graduationYear": 2027,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "React",
+    "JavaScript",
+    "Node.js",
+    "SQL",
+    "REST API",
+    "Git"
+   ]
+  },
+  {
+   "ref": "J37",
+   "company": "Kavach Security",
+   "title": "Software Engineer Trainee",
+   "description": "Kavach Security is hiring a Software Engineer Trainee (full-time) for its Gurugram team. You will complete a 6-month structured training programme and contribute to production code under a mentor. Required skills: Data Structures, Algorithms, OOP, Java. Nice to have: Open-source contributions. Eligibility: B.Tech / B.E. / MCA with at least 6.0 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 6.0,
+   "location": "Gurugram",
+   "salaryLpa": 6.0,
+   "jobType": "Full-time",
+   "deadlineDays": 18,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Data Structures",
+    "Algorithms",
+    "OOP",
+    "Java"
+   ]
+  },
+  {
+   "ref": "J38",
+   "company": "Lumen Analytics",
+   "title": "NLP Engineer",
+   "description": "Lumen Analytics is hiring a NLP Engineer (full-time) for its Mumbai team. You will fine-tune and serve language models and build evaluation sets for text classification. Required skills: Python, NLP, PyTorch, Deep Learning, FastAPI, Git. Nice to have: FastAPI, Docker. Eligibility: B.Tech / B.E. / MCA with at least 8.5 CGPA. Freshers are welcome; we value projects over certificates.",
+   "minimumCgpa": 8.5,
+   "location": "Mumbai",
+   "salaryLpa": 21.9,
+   "jobType": "Full-time",
+   "deadlineDays": 9,
+   "graduationYear": null,
+   "allowedDegrees": "B.Tech,B.E.,MCA",
+   "skills": [
+    "Python",
+    "NLP",
+    "PyTorch",
+    "Deep Learning",
+    "FastAPI",
+    "Git"
+   ]
+  }
+ ],
+ "students": [
+  {
+   "name": "Aarav Patel",
+   "email": "aarav@careerpilot.dev",
+   "college": "Rajkot Institute of Technology",
+   "degree": "B.Tech Computer Engineering",
+   "cgpa": 9.1,
+   "graduationYear": 2027,
+   "phone": "+91 9887736262",
+   "projects": "CareerPilot placement portal (Spring Boot + JWT); Library management REST API with 12 endpoints; Expense tracker using JPA and PostgreSQL",
+   "certifications": "Oracle Java SE Associate; NPTEL Database Management Systems",
+   "skills": [
+    "Data Structures",
+    "Docker",
+    "Git",
+    "Hibernate",
+    "JUnit",
+    "Java",
+    "Linux",
+    "Maven",
+    "MySQL",
+    "OOP",
+    "REST API",
+    "SQL",
+    "Spring Boot"
+   ]
+  },
+  {
+   "name": "Diya Shah",
+   "email": "diya@careerpilot.dev",
+   "college": "Western India College of Engineering",
+   "degree": "B.Tech Computer Engineering",
+   "cgpa": 8.6,
+   "graduationYear": 2027,
+   "phone": "+91 9864193837",
+   "projects": "Portfolio site with CMS in React and Node.js; Realtime chat app using WebSockets; E-commerce storefront with Stripe test checkout",
+   "certifications": "Meta Front-End Developer Certificate; freeCodeCamp Responsive Web Design",
+   "skills": [
+    "Agile",
+    "CSS",
+    "Express.js",
+    "Git",
+    "HTML",
+    "JavaScript",
+    "MongoDB",
+    "Node.js",
+    "REST API",
+    "React",
+    "SQL",
+    "Tailwind CSS",
+    "TypeScript"
+   ]
+  },
+  {
+   "name": "Rohan Mehta",
+   "email": "rohan@careerpilot.dev",
+   "college": "Saurashtra Technical University",
+   "degree": "B.E. Information Technology",
+   "cgpa": 8.9,
+   "graduationYear": 2027,
+   "phone": "+91 9844999379",
+   "projects": "Deepfake image classifier with 94% validation accuracy; Sentiment analysis on 50k reviews; Federated learning demo across 3 simulated clients",
+   "certifications": "Coursera Machine Learning Specialization; NPTEL Deep Learning",
+   "skills": [
+    "Git",
+    "Machine Learning",
+    "NLP",
+    "NumPy",
+    "Python",
+    "SQL",
+    "TensorFlow"
+   ]
+  },
+  {
+   "name": "Ananya Iyer",
+   "email": "ananya@careerpilot.dev",
+   "college": "Rajkot Institute of Technology",
+   "degree": "B.Tech Computer Science",
+   "cgpa": 8.2,
+   "graduationYear": 2027,
+   "phone": "+91 9811250299",
+   "projects": "Sales dashboard in Power BI for 120k rows; Customer churn analysis in Python; Airline delay EDA with SQL and Pandas",
+   "certifications": "Microsoft Power BI Data Analyst; Google Data Analytics",
+   "skills": [
+    "MS Excel",
+    "MySQL",
+    "Pandas",
+    "Power BI",
+    "Python",
+    "Statistics"
+   ]
+  },
+  {
+   "name": "Kabir Singh",
+   "email": "kabir@careerpilot.dev",
+   "college": "Rajkot Institute of Technology",
+   "degree": "B.Tech Computer Engineering",
+   "cgpa": 7.4,
+   "graduationYear": 2027,
+   "phone": "+91 9842787299",
+   "projects": "CI/CD pipeline for a Dockerised app using Jenkins; Kubernetes deployment on a local cluster; Log monitoring stack with alerts",
+   "certifications": "AWS Cloud Practitioner; Docker Certified Associate (study track)",
+   "skills": [
+    "AWS",
+    "Docker",
+    "Git",
+    "Kubernetes",
+    "Linux",
+    "Networking",
+    "Postman",
+    "Python"
+   ]
+  },
+  {
+   "name": "Meera Joshi",
+   "email": "meera@careerpilot.dev",
+   "college": "Saurashtra Technical University",
+   "degree": "B.E. Information Technology",
+   "cgpa": 7.9,
+   "graduationYear": 2027,
+   "phone": "+91 9899038526",
+   "projects": "CareerPilot placement portal (Spring Boot + JWT); Library management REST API with 12 endpoints; Expense tracker using JPA and PostgreSQL",
+   "certifications": "Oracle Java SE Associate; NPTEL Database Management Systems",
+   "skills": [
+    "Data Structures",
+    "Docker",
+    "Git",
+    "Hibernate",
+    "Java",
+    "Maven",
+    "MySQL",
+    "OOP",
+    "SQL"
+   ]
+  },
+  {
+   "name": "Vihaan Desai",
+   "email": "vihaan@careerpilot.dev",
+   "college": "Saurashtra Technical University",
+   "degree": "B.Tech Computer Science",
+   "cgpa": 6.8,
+   "graduationYear": 2027,
+   "phone": "+91 9837326368",
+   "projects": "Portfolio site with CMS in React and Node.js; Realtime chat app using WebSockets; E-commerce storefront with Stripe test checkout",
+   "certifications": "Meta Front-End Developer Certificate; freeCodeCamp Responsive Web Design",
+   "skills": [
+    "CSS",
+    "Express.js",
+    "Git",
+    "JavaScript",
+    "Node.js",
+    "REST API",
+    "Tailwind CSS"
+   ]
+  },
+  {
+   "name": "Isha Kapoor",
+   "email": "isha@careerpilot.dev",
+   "college": "Western India College of Engineering",
+   "degree": "B.Tech Computer Engineering",
+   "cgpa": 9.3,
+   "graduationYear": 2026,
+   "phone": "+91 9895511909",
+   "projects": "Deepfake image classifier with 94% validation accuracy; Sentiment analysis on 50k reviews; Federated learning demo across 3 simulated clients",
+   "certifications": "Coursera Machine Learning Specialization; NPTEL Deep Learning",
+   "skills": [
+    "Data Structures",
+    "Deep Learning",
+    "Git",
+    "Machine Learning",
+    "NLP",
+    "NumPy",
+    "Pandas",
+    "Python",
+    "SQL",
+    "Scikit-learn",
+    "Statistics",
+    "TensorFlow"
+   ]
+  },
+  {
+   "name": "Arjun Nair",
+   "email": "arjun@careerpilot.dev",
+   "college": "Rajkot Institute of Technology",
+   "degree": "B.Tech Computer Engineering",
+   "cgpa": 7.2,
+   "graduationYear": 2027,
+   "phone": "+91 9859555330",
+   "projects": "Expense splitter app in Flutter (1.2k test installs); Campus events app with push notifications; Weather app using public APIs",
+   "certifications": "Google Associate Android Developer (prep); Flutter bootcamp",
+   "skills": [
+    "Flutter",
+    "Git",
+    "JavaScript",
+    "Kotlin",
+    "Linux",
+    "OOP",
+    "REST API",
+    "Redux"
+   ]
+  },
+  {
+   "name": "Sneha Reddy",
+   "email": "sneha@careerpilot.dev",
+   "college": "Rajkot Institute of Technology",
+   "degree": "MCA",
+   "cgpa": 8.0,
+   "graduationYear": 2027,
+   "phone": "+91 9857469942",
+   "projects": "Sales dashboard in Power BI for 120k rows; Customer churn analysis in Python; Airline delay EDA with SQL and Pandas",
+   "certifications": "Microsoft Power BI Data Analyst; Google Data Analytics",
+   "skills": [
+    "Agile",
+    "Data Analysis",
+    "Linux",
+    "MySQL",
+    "Pandas",
+    "Power BI",
+    "Python",
+    "SQL",
+    "Statistics",
+    "Tableau"
+   ]
+  },
+  {
+   "name": "Dev Trivedi",
+   "email": "dev@careerpilot.dev",
+   "college": "Gujarat Polytechnic and Engineering College",
+   "degree": "B.Tech Computer Engineering",
+   "cgpa": 6.4,
+   "graduationYear": 2027,
+   "phone": "+91 9899913412",
+   "projects": "CareerPilot placement portal (Spring Boot + JWT); Library management REST API with 12 endpoints; Expense tracker using JPA and PostgreSQL",
+   "certifications": "Oracle Java SE Associate; NPTEL Database Management Systems",
+   "skills": [
+    "Data Structures",
+    "Docker",
+    "Git",
+    "Hibernate",
+    "JUnit",
+    "Java",
+    "Maven",
+    "MySQL",
+    "REST API",
+    "SQL",
+    "Spring Boot"
+   ]
+  },
+  {
+   "name": "Pooja Verma",
+   "email": "pooja@careerpilot.dev",
+   "college": "Western India College of Engineering",
+   "degree": "B.E. Information Technology",
+   "cgpa": 8.4,
+   "graduationYear": 2026,
+   "phone": "+91 9839920292",
+   "projects": "Portfolio site with CMS in React and Node.js; Realtime chat app using WebSockets; E-commerce storefront with Stripe test checkout",
+   "certifications": "Meta Front-End Developer Certificate; freeCodeCamp Responsive Web Design",
+   "skills": [
+    "CSS",
+    "Express.js",
+    "Git",
+    "HTML",
+    "JavaScript",
+    "MongoDB",
+    "Node.js",
+    "REST API",
+    "React",
+    "SQL",
+    "Tailwind CSS",
+    "TypeScript"
+   ]
+  },
+  {
+   "name": "Yash Solanki",
+   "email": "yash@careerpilot.dev",
+   "college": "Saurashtra Technical University",
+   "degree": "B.Tech Computer Science",
+   "cgpa": 7.7,
+   "graduationYear": 2027,
+   "phone": "+91 9857130035",
+   "projects": "CI/CD pipeline for a Dockerised app using Jenkins; Kubernetes deployment on a local cluster; Log monitoring stack with alerts",
+   "certifications": "AWS Cloud Practitioner; Docker Certified Associate (study track)",
+   "skills": [
+    "CI/CD",
+    "Docker",
+    "Git",
+    "Jenkins",
+    "Kubernetes"
+   ]
+  },
+  {
+   "name": "Tanvi Kulkarni",
+   "email": "tanvi@careerpilot.dev",
+   "college": "Saurashtra Technical University",
+   "degree": "B.Tech Computer Engineering",
+   "cgpa": 8.7,
+   "graduationYear": 2027,
+   "phone": "+91 9868571795",
+   "projects": "Deepfake image classifier with 94% validation accuracy; Sentiment analysis on 50k reviews; Federated learning demo across 3 simulated clients",
+   "certifications": "Coursera Machine Learning Specialization; NPTEL Deep Learning",
+   "skills": [
+    "Data Structures",
+    "Deep Learning",
+    "Git",
+    "Machine Learning",
+    "NLP",
+    "NumPy",
+    "Pandas",
+    "Python",
+    "SQL",
+    "Scikit-learn",
+    "Statistics",
+    "TensorFlow"
+   ]
+  }
+ ],
+ "applications": [
+  {
+   "student": "aarav@careerpilot.dev",
+   "job": "J01",
+   "status": "SELECTED",
+   "daysAgo": 40
+  },
+  {
+   "student": "aarav@careerpilot.dev",
+   "job": "J07",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 34
+  },
+  {
+   "student": "aarav@careerpilot.dev",
+   "job": "J20",
+   "status": "TECHNICAL_INTERVIEW",
+   "daysAgo": 9
+  },
+  {
+   "student": "aarav@careerpilot.dev",
+   "job": "J26",
+   "status": "SHORTLISTED",
+   "daysAgo": 26
+  },
+  {
+   "student": "aarav@careerpilot.dev",
+   "job": "J15",
+   "status": "APPLIED",
+   "daysAgo": 38
+  },
+  {
+   "student": "diya@careerpilot.dev",
+   "job": "J04",
+   "status": "TECHNICAL_INTERVIEW",
+   "daysAgo": 4
+  },
+  {
+   "student": "diya@careerpilot.dev",
+   "job": "J11",
+   "status": "REJECTED",
+   "daysAgo": 29
+  },
+  {
+   "student": "rohan@careerpilot.dev",
+   "job": "J05",
+   "status": "SELECTED",
+   "daysAgo": 36
+  },
+  {
+   "student": "rohan@careerpilot.dev",
+   "job": "J24",
+   "status": "REJECTED",
+   "daysAgo": 14
+  },
+  {
+   "student": "ananya@careerpilot.dev",
+   "job": "J08",
+   "status": "APPLIED",
+   "daysAgo": 23
+  },
+  {
+   "student": "ananya@careerpilot.dev",
+   "job": "J27",
+   "status": "SELECTED",
+   "daysAgo": 22
+  },
+  {
+   "student": "ananya@careerpilot.dev",
+   "job": "J29",
+   "status": "SHORTLISTED",
+   "daysAgo": 9
+  },
+  {
+   "student": "kabir@careerpilot.dev",
+   "job": "J06",
+   "status": "TECHNICAL_INTERVIEW",
+   "daysAgo": 28
+  },
+  {
+   "student": "kabir@careerpilot.dev",
+   "job": "J21",
+   "status": "TECHNICAL_INTERVIEW",
+   "daysAgo": 27
+  },
+  {
+   "student": "kabir@careerpilot.dev",
+   "job": "J13",
+   "status": "SHORTLISTED",
+   "daysAgo": 20
+  },
+  {
+   "student": "kabir@careerpilot.dev",
+   "job": "J07",
+   "status": "SHORTLISTED",
+   "daysAgo": 10
+  },
+  {
+   "student": "meera@careerpilot.dev",
+   "job": "J07",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 26
+  },
+  {
+   "student": "meera@careerpilot.dev",
+   "job": "J26",
+   "status": "REJECTED",
+   "daysAgo": 13
+  },
+  {
+   "student": "vihaan@careerpilot.dev",
+   "job": "J17",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 37
+  },
+  {
+   "student": "vihaan@careerpilot.dev",
+   "job": "J23",
+   "status": "APPLIED",
+   "daysAgo": 21
+  },
+  {
+   "student": "vihaan@careerpilot.dev",
+   "job": "J20",
+   "status": "REJECTED",
+   "daysAgo": 15
+  },
+  {
+   "student": "vihaan@careerpilot.dev",
+   "job": "J11",
+   "status": "REJECTED",
+   "daysAgo": 39
+  },
+  {
+   "student": "isha@careerpilot.dev",
+   "job": "J24",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 30
+  },
+  {
+   "student": "isha@careerpilot.dev",
+   "job": "J07",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 15
+  },
+  {
+   "student": "isha@careerpilot.dev",
+   "job": "J20",
+   "status": "SHORTLISTED",
+   "daysAgo": 32
+  },
+  {
+   "student": "isha@careerpilot.dev",
+   "job": "J38",
+   "status": "REJECTED",
+   "daysAgo": 12
+  },
+  {
+   "student": "arjun@careerpilot.dev",
+   "job": "J28",
+   "status": "SELECTED",
+   "daysAgo": 23
+  },
+  {
+   "student": "arjun@careerpilot.dev",
+   "job": "J09",
+   "status": "APPLIED",
+   "daysAgo": 17
+  },
+  {
+   "student": "arjun@careerpilot.dev",
+   "job": "J07",
+   "status": "REJECTED",
+   "daysAgo": 21
+  },
+  {
+   "student": "arjun@careerpilot.dev",
+   "job": "J14",
+   "status": "APPLIED",
+   "daysAgo": 14
+  },
+  {
+   "student": "sneha@careerpilot.dev",
+   "job": "J08",
+   "status": "APPLIED",
+   "daysAgo": 4
+  },
+  {
+   "student": "sneha@careerpilot.dev",
+   "job": "J27",
+   "status": "SHORTLISTED",
+   "daysAgo": 32
+  },
+  {
+   "student": "dev@careerpilot.dev",
+   "job": "J07",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 38
+  },
+  {
+   "student": "dev@careerpilot.dev",
+   "job": "J31",
+   "status": "APPLIED",
+   "daysAgo": 26
+  },
+  {
+   "student": "dev@careerpilot.dev",
+   "job": "J34",
+   "status": "REJECTED",
+   "daysAgo": 27
+  },
+  {
+   "student": "dev@careerpilot.dev",
+   "job": "J11",
+   "status": "APPLIED",
+   "daysAgo": 11
+  },
+  {
+   "student": "pooja@careerpilot.dev",
+   "job": "J11",
+   "status": "APPLIED",
+   "daysAgo": 29
+  },
+  {
+   "student": "pooja@careerpilot.dev",
+   "job": "J23",
+   "status": "SHORTLISTED",
+   "daysAgo": 13
+  },
+  {
+   "student": "pooja@careerpilot.dev",
+   "job": "J26",
+   "status": "SHORTLISTED",
+   "daysAgo": 35
+  },
+  {
+   "student": "pooja@careerpilot.dev",
+   "job": "J20",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 5
+  },
+  {
+   "student": "yash@careerpilot.dev",
+   "job": "J02",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 10
+  },
+  {
+   "student": "yash@careerpilot.dev",
+   "job": "J21",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 35
+  },
+  {
+   "student": "yash@careerpilot.dev",
+   "job": "J07",
+   "status": "SHORTLISTED",
+   "daysAgo": 40
+  },
+  {
+   "student": "yash@careerpilot.dev",
+   "job": "J06",
+   "status": "REJECTED",
+   "daysAgo": 30
+  },
+  {
+   "student": "tanvi@careerpilot.dev",
+   "job": "J05",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 37
+  },
+  {
+   "student": "tanvi@careerpilot.dev",
+   "job": "J24",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 12
+  },
+  {
+   "student": "tanvi@careerpilot.dev",
+   "job": "J38",
+   "status": "REJECTED",
+   "daysAgo": 32
+  },
+  {
+   "student": "tanvi@careerpilot.dev",
+   "job": "J27",
+   "status": "HR_INTERVIEW",
+   "daysAgo": 18
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: careerpilot
+      POSTGRES_USER: ${DB_USER:-careerpilot}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-careerpilot}
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-careerpilot} -d careerpilot"]
+      interval: 5s
+      retries: 10
+
+  backend:
+    build: ./backend
+    depends_on:
+      db: { condition: service_healthy }
+    environment:
+      DB_URL: jdbc:postgresql://db:5432/careerpilot
+      DB_USER: ${DB_USER:-careerpilot}
+      DB_PASSWORD: ${DB_PASSWORD:-careerpilot}
+      JWT_SECRET: ${JWT_SECRET:-change-this-to-a-long-random-secret-of-32-plus-chars}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      ANTHROPIC_MODEL: ${ANTHROPIC_MODEL:-claude-sonnet-5-5}
+      CORS_ORIGINS: http://localhost:3000
+    ports: ["8080:8080"]
+
+  frontend:
+    build: ./frontend
+    depends_on: [backend]
+    ports: ["3000:80"]
+
+volumes:
+  pgdata:
