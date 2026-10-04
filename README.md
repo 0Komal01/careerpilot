@@ -7,6 +7,8 @@
 ![Database](https://img.shields.io/badge/DB-H2%20%7C%20PostgreSQL-blue)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ed)
 
+**Live demo:** https://careerpilot-tawny.vercel.app
+
 Students check eligibility, see a skill-match score for every job, apply, and track each application through a hiring pipeline. Recruiters manage companies, jobs and candidates. AI helps with resume feedback, JD parsing and interview practice, but **core matching and security never depend on AI**.
 
 
