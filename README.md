@@ -72,7 +72,7 @@ Students apply without knowing whether they meet eligibility rules, which skills
 
 | Student Dashboard | Job Detail (match % + eligibility) |
 |---|---|
-| ![Student dashboard](<img width="942" height="411" alt="Screenshot 2026-10-03 152559" src="https://github.com/user-attachments/assets/ff03c5e7-e6a3-48ff-97b2-05ca249d920f" />) | ![Job detail]() |
+| ![Student dashboard](docs/screenshots/dashboard.png) | ![Job detail](docs/screenshots/job-detail.png) |
 
 ## Quick start in VS Code (about 3 minutes)
 Prerequisites: **JDK 17+**, **Maven 3.9+**, **Node 18+**. Install the recommended extensions when VS Code prompts (Extension Pack for Java, Spring Boot Extension Pack).
