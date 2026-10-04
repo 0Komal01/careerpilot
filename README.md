@@ -70,23 +70,41 @@ Students apply without knowing whether they meet eligibility rules, which skills
 
 ## Screenshots
 
-| Student Dashboard | Job Detail (match % + eligibility) |
+### Student
+
+| Dashboard | Job Detail (match % + eligibility) |
 |---|---|
 | ![Student dashboard](docs/screenshots/dashboard.png) | ![Job detail](docs/screenshots/job-detail.png) |
 
-## Quick start in VS Code (about 3 minutes)
+### Recruiter / Admin
+
+| Admin Dashboard | Applications Management |
+|---|---|
+| ![Admin dashboard](docs/screenshots/admin-dashboard.png) | ![Admin applications](docs/screenshots/admin-applications.png) |
+
+## Quick start in VS Code
 Prerequisites: **JDK 17+**, **Maven 3.9+**, **Node 18+**. Install the recommended extensions when VS Code prompts (Extension Pack for Java, Spring Boot Extension Pack).
 
 ```bash
-# 1. Backend  (terminal 1)  ->  http://localhost:8080
-cd backend
-mvn spring-boot:run
-
-# 2. Frontend (terminal 2)  ->  http://localhost:5173
+# 1. Frontend (terminal 1)  ->  http://localhost:5173
 cd frontend
 npm install
 npm run dev
+
+# 2. Backend (terminal 2)  ->  http://localhost:8080
+cd backend
+mvn spring-boot:run
 ```
+
+**If `mvn` is not recognized**, Maven's `bin` folder is not on your PATH. Run it with the full path instead:
+
+Command Prompt (cmd):
+```cmd
+"C:\path\to\apache-maven-3.9.x\bin\mvn.cmd" spring-boot:run
+```
+
+Or add Maven permanently: Windows search → **Edit the system environment variables** → **Environment Variables** → select `Path` → **Edit** → **New** → paste the Maven `bin` folder path → OK, then reopen the terminal and check with `mvn -v`.
+
 Or press `Ctrl+Shift+P` → **Tasks: Run Task** → **Run CareerPilot (backend + frontend)**.
 
 The first start creates a local H2 database in `backend/data/` and loads the demo dataset automatically.
