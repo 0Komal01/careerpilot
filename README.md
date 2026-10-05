@@ -9,6 +9,15 @@
 
 **Live demo:** https://careerpilot-tawny.vercel.app
 
+## Demo Accounts
+
+| Role | Email | Password |
+|---|---|---|
+| Student (richest demo data) | `aarav@careerpilot.dev` | `Student@123` |
+| Other students | `diya@`, `rohan@`, `ananya@`, `kabir@` … `@careerpilot.dev` | `Student@123` |
+| Recruiter / admin | `admin@careerpilot.dev` | `Admin@123` |
+
+
 Students check eligibility, see a skill-match score for every job, apply, and track each application through a hiring pipeline. Recruiters manage companies, jobs and candidates. AI helps with resume feedback, JD parsing and interview practice, but **core matching and security never depend on AI**.
 
 
@@ -111,13 +120,7 @@ Or press `Ctrl+Shift+P` → **Tasks: Run Task** → **Run CareerPilot (backend +
 
 The first start creates a local H2 database in `backend/data/` and loads the demo dataset automatically.
 
-## Demo Accounts
 
-| Role | Email | Password |
-|---|---|---|
-| Student (richest demo data) | `aarav@careerpilot.dev` | `Student@123` |
-| Other students | `diya@`, `rohan@`, `ananya@`, `kabir@` … `@careerpilot.dev` | `Student@123` |
-| Recruiter / admin | `admin@careerpilot.dev` | `Admin@123` |
 
 > These are fictional demo credentials for local use only. Change or disable seeding (`SEED_ENABLED=false`) in any real deployment.
 
